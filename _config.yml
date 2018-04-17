@@ -16,7 +16,7 @@
 
 locale: "en-gb"
 title: Alfie Pates
-description: A telecoms human, musician, and photographer living in Edinburgh.
+description: A telecomms human, musician, and photographer living in Edinburgh.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.alfiepates.me/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/alfie-square-1200px.jpg
