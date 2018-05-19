@@ -8,7 +8,7 @@ image:
 tags: imported-from-old-blog
 ---
 
-Anyone who owns a recent Apple device knows the pain of Apple's terrible quality Lightning cables, and the awful knockoffs that can be found for almost pennies on the high street these days. Around the new year, I finally got fed up of the six-month replacement cycle and decided to begin my search for the best third-party Lightning cable.
+Anyone who owns a recent Apple device knows the pain of Apple's terrible quality Lightning cables, and the awful knockoffs that can be found for almost pennies on the high street these days. I finally got fed up of the six-month replacement cycle and decided to begin my search for the best third-party Lightning cable.
 
 I decided I had two main criteria for a Lightning cable:
 

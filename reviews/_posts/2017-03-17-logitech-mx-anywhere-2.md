@@ -6,6 +6,7 @@ image:
   path: /assets/images/2017/03/MXAnywhere2_20170308_0027.jpg
   thumbnail: /assets/images/2017/03/MXAnywhere2_20170308_0027.jpg
 tags: imported-from-old-blog
+excerpt: "The scrollwheel issues alone ruin this mouse for me, and that's a shame because this is otherwise a really nice mouse! It tracks incredibly, it's comfortable, it's a great size and it looks fantastic, but I work with 20-page long documents all day and I can't get by with a scrollwheel which is as good as useless."
 ---
 
 
